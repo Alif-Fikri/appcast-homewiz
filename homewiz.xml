@@ -45,10 +45,10 @@
 
     <!-- ============ iOS RELEASE ============ -->
     <item>
-      <title>Homewiz 1.7.21</title>
+      <title>Homewiz 1.7.22</title>
       <description>
         <![CDATA[
-          <h3>What's New in 1.7.21</h3>
+          <h3>What's New in 1.7.22</h3>
           <ul>
             <li>Perbaikan bug notifikasi paket</li>
             <li>Peningkatan performa aplikasi</li>
@@ -58,13 +58,13 @@
       </description>
       <pubDate>Mon, 03 Feb 2026 10:00:00 +0700</pubDate>
 
-      <sparkle:version>1.7.21</sparkle:version>
-      <sparkle:shortVersionString>1.7.21</sparkle:shortVersionString>
+      <sparkle:version>1.7.22</sparkle:version>
+      <sparkle:shortVersionString>1.7.22</sparkle:shortVersionString>
       <sparkle:os>ios</sparkle:os>
 
       <enclosure
         url="https://apps.apple.com/id/app/homewiz/id6752974478"
-        sparkle:version="1.7.21"
+        sparkle:version="1.7.22"
         sparkle:os="ios"
       />
     </item>
