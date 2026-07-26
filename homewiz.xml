@@ -45,10 +45,10 @@
 
     <!-- ============ iOS RELEASE ============ -->
     <item>
-      <title>Homewiz 1.8.1</title>
+      <title>Homewiz 1.8.2</title>
       <description>
         <![CDATA[
-          <h3>What's New in 1.8.1</h3>
+          <h3>What's New in 1.8.2</h3>
           <ul>
             <li>Perbaikan bug notifikasi paket</li>
             <li>Peningkatan performa aplikasi</li>
@@ -58,14 +58,14 @@
       </description>
       <pubDate>Mon, 03 Feb 2026 10:00:00 +0700</pubDate>
 
-      <sparkle:version>1.8.1</sparkle:version>
-      <sparkle:shortVersionString>1.8.1</sparkle:shortVersionString>
+      <sparkle:version>1.8.2</sparkle:version>
+      <sparkle:shortVersionString>1.8.2</sparkle:shortVersionString>
       <sparkle:os>ios</sparkle:os>
       <sparkle:criticalUpdate />
 
       <enclosure
         url="https://apps.apple.com/id/app/homewiz/id6752974478"
-        sparkle:version="1.8.1"
+        sparkle:version="1.8.2"
         sparkle:os="ios"
       />
     </item>
