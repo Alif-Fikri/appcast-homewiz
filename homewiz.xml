@@ -27,7 +27,7 @@
       <sparkle:version>1.9.0</sparkle:version>
       <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
       <sparkle:os>android</sparkle:os>
-      <sparkle:criticalUpdate />
+      <!-- <sparkle:criticalUpdate /> -->
       <!--
         PENTING: Jangan tambahkan <sparkle:criticalUpdate /> di sini
         Karena force update dihandle oleh minAppVersion di app
