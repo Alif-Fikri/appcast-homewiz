@@ -7,7 +7,7 @@
 
     <!-- ============ ANDROID RELEASE ============ -->
     <item>
-      <title>Homewiz 1.8.2</title>
+      <title>Homewiz 1.9.0</title>
       <description>
         <![CDATA[
           <h3>What's New in 1.8.2</h3>
@@ -24,8 +24,8 @@
       <pubDate>Mon, 03 Feb 2026 10:00:00 +0700</pubDate>
 
       <!-- Version terbaru di Play Store -->
-      <sparkle:version>1.8.2</sparkle:version>
-      <sparkle:shortVersionString>1.8.2</sparkle:shortVersionString>
+      <sparkle:version>1.9.0</sparkle:version>
+      <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
       <sparkle:os>android</sparkle:os>
       <sparkle:criticalUpdate />
       <!--
@@ -38,7 +38,7 @@
 
       <enclosure
         url="https://play.google.com/store/apps/details?id=com.homewiz.homewizz"
-        sparkle:version="1.8.2"
+        sparkle:version="1.9.0"
         sparkle:os="android"
       />
     </item>
